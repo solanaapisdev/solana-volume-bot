@@ -19,9 +19,8 @@ We are dedicated to continually improving this bot and are excited about upcomin
 For purchases, custom development, or support:
 
 **Contact Us:**
-- **Telegram:** [@primeoss](https://t.me/primeoss)
-- **Email:** [prime@oss.one](mailto:prime@oss.one)
-- **Discord:** primeoss
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 **Added jupiter api** 01/06/2024
 
