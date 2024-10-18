@@ -19,7 +19,7 @@ We are dedicated to continually improving this bot and are excited about upcomin
 For purchases, custom development, or support:
 
 **Contact Us:**
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 **Added jupiter api** 01/06/2024
